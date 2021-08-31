@@ -24,7 +24,7 @@ The following is a list of supported features by the addon
 - [X] Material Effects
   - [X] Environment/Normal Maps
   - [X] UV Animation
-- [X] Rockstar Specular and Reflection Extensions
+- [X] Specular and Reflection Extensions
 
 ## Installation
 
