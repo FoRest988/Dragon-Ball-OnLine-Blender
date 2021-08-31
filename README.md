@@ -12,10 +12,8 @@ The following is a list of supported features by the addon
 - [X] Model files
 - [ ] Texture Files
 - [X] Collision files (including the ones packed in dff)
-  - [X] Import
-  - [X] Export *(Partial)*
   - [X] Import *(Partial, experimental)*
-  - [ ] Export
+  - [X] Export *(Partial)*
 - [ ] Animation files
 
 #### Model Features
@@ -41,5 +39,5 @@ The python scripts have been designed with reusability in mind. As of now, the d
 
 #### Dragon Ball OnLine Modules
 
-* [X] - DFF - `dff.py`
+* [X] - DFF
 
