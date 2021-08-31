@@ -1,4 +1,4 @@
-#  DrangonBall OnLine Blender
+#  Drangon Ball OnLine Blender Plugin
 
 DrangonBall OnLine Blender is a Blender Addon for import and export of DBO files. 
 
